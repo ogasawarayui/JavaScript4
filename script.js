@@ -4,7 +4,7 @@ if (boolean) {
   console.log(boolean);
 };
 /*Q2 変数に100を代入し、ifの条件がtrueの時にconsole.log();で変数の中身を表示させる処理を作ってください。*/
-var num = 100
+var num = 100;
 if (num === true) {
   console.log(num);
 }
