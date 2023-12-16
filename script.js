@@ -10,6 +10,6 @@ if (num === true) {
 }
 /*Q3 変数に"JavaScript"を代入し、ifの条件がtrueの時にconsole.log();で変数の中身を表示させる処理を作ってください。*/
 var text = "JavaScript"
-if (text === "true") {
+if (text === true) {
   console.log(text);
 }
